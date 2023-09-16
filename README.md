@@ -1,0 +1,2 @@
+# TransposOfMatrixInCandMIPS
+分別針對陣列的值和陣列的pointer的兩種不同轉置矩陣的方法，寫C和MIPS對應程式碼
